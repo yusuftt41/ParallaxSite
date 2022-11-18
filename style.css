@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+html,
+body {
+    height: 100%;
+}
+.main-section{
+    position: relative;
+}
+.main-img{
+    background-image: url("https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg");
+}
